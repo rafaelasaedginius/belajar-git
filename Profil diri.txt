@@ -1,3 +1,4 @@
 nama: richie
 univ: its
 jurusan: tc
+password: myPassword
