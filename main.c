@@ -2,5 +2,7 @@
 
 int main(void)
 {
-    printf("Heloo World!");
+    int n;
+    scanf("%d", &n);
+    printf("Hello World!\n Hari ini hari selasa tanggal %d\n", n);
 }
